@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+👋+I'm+Borjan!;Python+%7C+JavaScript+%7C+PyTorch+%7C+Docker;Working +with+AI+and+building+clean+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=600&lines=Welcome+👋+I'm+Borjan!;Python+%7C+JavaScript+%7C+PyTorch+%7C+Docker;Working +with+AI+and+building+clean+APIs" alt="Typing SVG" />
 </div>
 
 ---
